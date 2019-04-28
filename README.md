@@ -1,6 +1,9 @@
 # computer_vision_lane_detection
 # Finding Lanes for Self Driving Car
-This is a self-learning hands-on project related to find guiding lanes for a self-driving car.  
+This is a project related to find guiding lanes for a self-driving car. Thanks to youtube tutorial Rayan Slim (https://www.youtube.com/watch?v=eLTLtUVuuy4) 
+
+The test video is available from here: https://github.com/rslim087a/road-video
+
 
 <p align="center"> 
 <img src="Image.gif">
